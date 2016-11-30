@@ -1,0 +1,25 @@
+.my-cont{
+    width: 30%;
+}
+
+.top-cont, .bottom-cont p{
+    text-align: center;
+    background: #BBDEFB;
+    color: #fff;
+}
+
+.container{
+    background: #E3F2FD;
+}
+
+.deep-orange-text{
+    color: #fff;
+}
+
+h3{
+    font-family: 'Nunito', sans-serif;
+}
+
+input[type="submit"]{
+    margin-top: 0.5em;
+}
